@@ -1,0 +1,37 @@
+
+
+# Read Me
+
+#### Karen's Page, 3/17/2020
+
+#### _By pendleton_
+
+## Description
+
+Page 4 Karen
+
+## Setup/Installation Requirements
+
+* Double click the file to open file in a web browser.
+
+
+## Known Bugs
+Works great. So well. Looks even better. 
+
+
+## Next Steps
+1. Add links  **Example:**  `[Click here](http://allrecipes.com/) to check out my other great recipes.`
+2. Add photos !(remove)[An image of a cookie](http://lorempixel.com/400/200/)
+
+
+## Support and contact details
+
+If you run into any issues, contact me at  <c.pendleton.thomas@gmail.com>
+
+## Technologies Used
+
+This page was written in HTML.
+
+### License
+Open source.
+Copyright (c) 2020
