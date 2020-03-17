@@ -20,7 +20,7 @@ Works great. So well. Looks even better.
 
 
 ## Next Steps
-1. Add more photos !(remove)[An image of a cookie](http://lorempixel.com/400/200/)
+1. Add more photos !(remove)[An image of a doggo](link)
 
 
 ## Support and contact details
