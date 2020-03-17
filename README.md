@@ -20,8 +20,7 @@ Works great. So well. Looks even better.
 
 
 ## Next Steps
-1. Add links  **Example:**  `[Click here](http://allrecipes.com/) to check out my other great recipes.`
-2. Add photos !(remove)[An image of a cookie](http://lorempixel.com/400/200/)
+1. Add more photos !(remove)[An image of a cookie](http://lorempixel.com/400/200/)
 
 
 ## Support and contact details
